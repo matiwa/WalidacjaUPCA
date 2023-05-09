@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="60"/>
+        <CursorPos X="38" Y="72"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="7" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="8" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="15" Column="18" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="17" Column="4" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="43" Column="35" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="67" Column="19" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="10" Column="8" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="WalidacjaUPCA.lpr"/>
+        <Caret Line="75" Column="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
